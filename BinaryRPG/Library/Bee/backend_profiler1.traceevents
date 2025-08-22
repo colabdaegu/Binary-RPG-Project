@@ -1,0 +1,706 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1687592995030903, "dur":672, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995031579, "dur":68, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1687592995031669, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1687592995031686, "dur":382, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1687592995032080, "dur":443, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995032523, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093885, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093888, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093897, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093898, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093902, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093903, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093907, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093909, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093915, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093916, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093920, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093921, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093925, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093926, "dur":29, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093955, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093956, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093961, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093961, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093966, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093967, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093970, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093972, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093976, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093977, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093981, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093982, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093985, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093986, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093990, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093991, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093995, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093996, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995093999, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094000, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094003, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094004, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094008, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094009, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094013, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094014, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094018, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094031, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995094054, "dur":1604, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1687592995032401, "dur":129, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995032530, "dur":3154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995035684, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995035714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995036586, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995038793, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995038815, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995039253, "dur":2501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995041775, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995041798, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995041801, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995043954, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995043982, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995043985, "dur":6257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995050266, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995050289, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995050292, "dur":11631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995061945, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995061973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995061977, "dur":4445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687592995066441, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1687592995066462, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995066464, "dur":3457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1687592995069957, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets16.resource" }}
+,{ "pid":12345, "tid":1, "ts":1687592995069991, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995069995, "dur":8990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets16.resource" }}
+,{ "pid":12345, "tid":1, "ts":1687592995079017, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1687592995079066, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995079102, "dur":9090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1687592995088220, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1687592995088248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687592995088252, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1687592995090370, "dur":3290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995032462, "dur":93, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995032555, "dur":3148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995035703, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995035773, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995036855, "dur":3460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995040363, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995040617, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995040623, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995042686, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995042719, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995042721, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995045110, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995045165, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995045168, "dur":5025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995050222, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995050302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995050330, "dur":4769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995055150, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995055236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995055240, "dur":14678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687592995069956, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets17.assets" }}
+,{ "pid":12345, "tid":2, "ts":1687592995069988, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687592995069992, "dur":21223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets17.assets" }}
+,{ "pid":12345, "tid":2, "ts":1687592995091245, "dur":2351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995032534, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995032535, "dur":3193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995035729, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687592995035808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995058016, "dur":4751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687592995062829, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687592995062872, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995062877, "dur":5856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687592995069051, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":3, "ts":1687592995069112, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995069118, "dur":7305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":3, "ts":1687592995076463, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets12.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1687592995076504, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995076508, "dur":9116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets12.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1687592995085655, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level14" }}
+,{ "pid":12345, "tid":3, "ts":1687592995085681, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687592995085685, "dur":3431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level14" }}
+,{ "pid":12345, "tid":3, "ts":1687592995089147, "dur":4279, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995032524, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995032525, "dur":2788, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995035318, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1687592995035326, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995036170, "dur":1250, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1687592995037424, "dur":1091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1687592995038519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995038533, "dur":4329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1687592995042864, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995042913, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995042919, "dur":3529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995046497, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995046550, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995046554, "dur":7322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995054002, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995054050, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995054056, "dur":11199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995065404, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995065466, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995065471, "dur":4400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687592995069924, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets17.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1687592995069983, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995069988, "dur":7087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets17.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1687592995077115, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets10.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1687592995077287, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995077423, "dur":3387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets10.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1687592995080859, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level8" }}
+,{ "pid":12345, "tid":4, "ts":1687592995080898, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687592995080902, "dur":8054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level8" }}
+,{ "pid":12345, "tid":4, "ts":1687592995088987, "dur":4823, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995032717, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995032718, "dur":2596, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995035320, "dur":722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1687592995036043, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995036156, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995036250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995036591, "dur":2695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995039336, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995039380, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995039385, "dur":2664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995042092, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995042134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995042139, "dur":2825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995045186, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995045212, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995045214, "dur":6062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995051329, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995051379, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995051388, "dur":4856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995056286, "dur":365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995056654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995056661, "dur":4203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995060896, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995060959, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995060964, "dur":4646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687592995065666, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1687592995065715, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995065779, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1687592995069449, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1687592995069515, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995069520, "dur":10065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1687592995079633, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1687592995079777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687592995079806, "dur":9589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1687592995089419, "dur":4314, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995032741, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995032741, "dur":2578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995035320, "dur":518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1687592995035838, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995035916, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995036000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995036483, "dur":2285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995038830, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995038880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995039681, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995042268, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995042452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995042458, "dur":4192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995046693, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995046735, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995046740, "dur":6888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995053674, "dur":681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995054358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995054364, "dur":5356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995059768, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995059816, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995059821, "dur":4385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995064254, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995064437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995064443, "dur":3931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687592995068462, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995068514, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995068554, "dur":4256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995072861, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995072934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995072942, "dur":5775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995078764, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995078806, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995078811, "dur":5510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995084363, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level16" }}
+,{ "pid":12345, "tid":6, "ts":1687592995084408, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995084413, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level16" }}
+,{ "pid":12345, "tid":6, "ts":1687592995088333, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995088376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687592995088381, "dur":3414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687592995091815, "dur":1775, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995032759, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995032759, "dur":2559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995035319, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1687592995035431, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995035477, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1687592995035527, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995035590, "dur":609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1687592995036199, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995036240, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995036337, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995036981, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995041508, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995041606, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995041634, "dur":5249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995046920, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995046962, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995046967, "dur":5234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995052243, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995052560, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995052565, "dur":4740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995057398, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995057569, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995057574, "dur":9389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687592995066994, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets7.resource" }}
+,{ "pid":12345, "tid":7, "ts":1687592995067062, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995067066, "dur":3296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets7.resource" }}
+,{ "pid":12345, "tid":7, "ts":1687592995070386, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets16.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1687592995070408, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995070411, "dur":8504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets16.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1687592995080201, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level9" }}
+,{ "pid":12345, "tid":7, "ts":1687592995080237, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995080240, "dur":7600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level9" }}
+,{ "pid":12345, "tid":7, "ts":1687592995087890, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1687592995088013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687592995088018, "dur":1751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1687592995089800, "dur":3611, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995032494, "dur":65, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995032560, "dur":3075, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995035636, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1687592995035700, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995036474, "dur":9630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1687592995046151, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995046183, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995046187, "dur":5203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995051417, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995051495, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995051498, "dur":2964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995054517, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995054861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995054865, "dur":5365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995060257, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995060283, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995060286, "dur":4892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995065199, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995065221, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995065224, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687592995069560, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1687592995069582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995069584, "dur":8659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1687592995078275, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1687592995078302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995078306, "dur":5183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1687592995083516, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1687592995083577, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995083581, "dur":5103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1687592995088824, "dur":396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1687592995089222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687592995089226, "dur":4075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1687592995093347, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1687592995093348, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995032426, "dur":110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995032536, "dur":3109, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995035645, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995035881, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995037326, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995041891, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995041914, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995041917, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995044195, "dur":311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995044508, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995044511, "dur":5856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995050390, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995050408, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995050410, "dur":4515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995054951, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995054976, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995054978, "dur":4367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995059462, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995059528, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995059541, "dur":5956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995065525, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995065684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995065687, "dur":4137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687592995069875, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1687592995070060, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995070100, "dur":13562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1687592995083707, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level2" }}
+,{ "pid":12345, "tid":9, "ts":1687592995083746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995083751, "dur":3774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level2" }}
+,{ "pid":12345, "tid":9, "ts":1687592995087576, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level13" }}
+,{ "pid":12345, "tid":9, "ts":1687592995087618, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687592995087625, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level13" }}
+,{ "pid":12345, "tid":9, "ts":1687592995090380, "dur":3456, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995032454, "dur":90, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995032544, "dur":3090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995035634, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG.exe" }}
+,{ "pid":12345, "tid":10, "ts":1687592995036053, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995036055, "dur":3005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG.exe" }}
+,{ "pid":12345, "tid":10, "ts":1687592995039282, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995039446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995039449, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995041016, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995041051, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995041053, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995042991, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995043015, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995043018, "dur":6488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995049526, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995049555, "dur":50, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995049621, "dur":3509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995053151, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995053253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995053256, "dur":2485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995055775, "dur":951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995056729, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995056734, "dur":4576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995061331, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995061353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995061356, "dur":4246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995065635, "dur":24295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995089932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687592995090524, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687592995091280, "dur":2514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995032633, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995032633, "dur":2767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995035400, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1687592995035475, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995035527, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1687592995035596, "dur":1489, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995037086, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995037146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995037149, "dur":3115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995040290, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995040314, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995040318, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995042962, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995042998, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995043001, "dur":4566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995047596, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995047619, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995047622, "dur":5763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995053444, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995053678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995053681, "dur":4771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995058500, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995058530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995058534, "dur":5586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995064143, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995064182, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995064185, "dur":2707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687592995066937, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":11, "ts":1687592995066970, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995066973, "dur":4361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":11, "ts":1687592995071993, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":11, "ts":1687592995072035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995072044, "dur":7243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":11, "ts":1687592995079313, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1687592995079370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995079374, "dur":8443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1687592995087849, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level11" }}
+,{ "pid":12345, "tid":11, "ts":1687592995087924, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687592995087928, "dur":3307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level11" }}
+,{ "pid":12345, "tid":11, "ts":1687592995091262, "dur":2299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995032597, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995032597, "dur":2967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995035564, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1687592995035615, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995035759, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687592995035788, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995057660, "dur":3632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687592995061316, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687592995061339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995061342, "dur":7719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687592995069132, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":12, "ts":1687592995069220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995069224, "dur":18611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":12, "ts":1687592995087870, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level10" }}
+,{ "pid":12345, "tid":12, "ts":1687592995087905, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687592995087925, "dur":3488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level10" }}
+,{ "pid":12345, "tid":12, "ts":1687592995091438, "dur":2061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995032582, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995032582, "dur":3048, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995035631, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995035736, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995035807, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995035860, "dur":73, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995036430, "dur":2645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995039121, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995039176, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995039183, "dur":10216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995049451, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995049501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995049507, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995052257, "dur":511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995052770, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995052797, "dur":4533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995057392, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995057552, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995057557, "dur":10711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687592995068401, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1687592995068426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995068429, "dur":9315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1687592995077776, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":13, "ts":1687592995077796, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995077799, "dur":3726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":13, "ts":1687592995081543, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level6" }}
+,{ "pid":12345, "tid":13, "ts":1687592995081561, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687592995081564, "dur":10949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level6" }}
+,{ "pid":12345, "tid":13, "ts":1687592995092542, "dur":888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995032623, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995032623, "dur":2774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995035398, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1687592995035506, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995035582, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":14, "ts":1687592995035968, "dur":376, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995036345, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995036503, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995036618, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995038597, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995038625, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995039131, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995040988, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995041011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995041014, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995043168, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995043218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995043223, "dur":6001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995049247, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995049338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995049346, "dur":4519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995053920, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995054051, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995054056, "dur":6264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995060381, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995060427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995060432, "dur":5830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687592995066288, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":14, "ts":1687592995066310, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995066313, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":14, "ts":1687592995068327, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":14, "ts":1687592995068352, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995068355, "dur":19338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":14, "ts":1687592995087730, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level12" }}
+,{ "pid":12345, "tid":14, "ts":1687592995087771, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687592995087775, "dur":2949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level12" }}
+,{ "pid":12345, "tid":14, "ts":1687592995090754, "dur":2885, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995032659, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995032659, "dur":2737, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995035396, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1687592995035519, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995035594, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995035886, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995035990, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995036248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995036617, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995039815, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995039866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995039872, "dur":4097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995044023, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995044068, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995044073, "dur":6998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995051125, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995051165, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995051170, "dur":3771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995054986, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995055027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995055032, "dur":5011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995060088, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995060143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995060150, "dur":3940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687592995065727, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1687592995065783, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995065786, "dur":3073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1687592995068908, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":15, "ts":1687592995068957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995068962, "dur":7373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":15, "ts":1687592995076499, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":15, "ts":1687592995076526, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995076529, "dur":6457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":15, "ts":1687592995083028, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level4" }}
+,{ "pid":12345, "tid":15, "ts":1687592995083065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687592995083070, "dur":5865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level4" }}
+,{ "pid":12345, "tid":15, "ts":1687592995088998, "dur":4793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995032682, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995032683, "dur":2950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995035633, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1687592995035707, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995035745, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995035920, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995036534, "dur":3584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995040162, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995040202, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995040205, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995042676, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995042706, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995042720, "dur":2714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995045452, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995045485, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995045488, "dur":6605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995052746, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995052794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995052798, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995055109, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995055138, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995055141, "dur":3487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995058648, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995058670, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995058673, "dur":5422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995064123, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995064148, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995064152, "dur":4858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687592995069076, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1687592995069179, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995069182, "dur":6968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1687592995076203, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":16, "ts":1687592995076246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995076251, "dur":4813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":16, "ts":1687592995081085, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level7" }}
+,{ "pid":12345, "tid":16, "ts":1687592995081106, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687592995081109, "dur":10455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level7" }}
+,{ "pid":12345, "tid":16, "ts":1687592995091588, "dur":1821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995032711, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995032711, "dur":2606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995035319, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1687592995035478, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995035571, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1687592995035697, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995035747, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1687592995035784, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995057390, "dur":3596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1687592995061006, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":17, "ts":1687592995061027, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995061029, "dur":3836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":17, "ts":1687592995064890, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":17, "ts":1687592995064910, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995064912, "dur":2092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":17, "ts":1687592995067033, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1687592995067055, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995067060, "dur":2324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1687592995069407, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":17, "ts":1687592995069438, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995069440, "dur":6444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":17, "ts":1687592995075927, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets13.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1687592995075956, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995076044, "dur":3678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets13.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1687592995079749, "dur":856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":17, "ts":1687592995080609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1687592995080614, "dur":8707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":17, "ts":1687592995089368, "dur":4502, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995032740, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995032740, "dur":2580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995035321, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":18, "ts":1687592995035483, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995035582, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1687592995035704, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995035788, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995035879, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995037353, "dur":6002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995043376, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995043396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995043399, "dur":3564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995046982, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995047005, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995047008, "dur":9240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995056287, "dur":427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995056716, "dur":114, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995056837, "dur":5581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995062481, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995062511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995062515, "dur":6377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":18, "ts":1687592995068944, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":18, "ts":1687592995068983, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995068988, "dur":6485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":18, "ts":1687592995075521, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":18, "ts":1687592995075589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995075594, "dur":3324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":18, "ts":1687592995079003, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":18, "ts":1687592995079026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995079029, "dur":4713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":18, "ts":1687592995083772, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level17" }}
+,{ "pid":12345, "tid":18, "ts":1687592995083802, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1687592995083806, "dur":5967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level17" }}
+,{ "pid":12345, "tid":18, "ts":1687592995089804, "dur":4050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995032765, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995032765, "dur":2551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035319, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035440, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035499, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035556, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035593, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035806, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995035960, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995036097, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995036774, "dur":1775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995038586, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995038610, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995039065, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995040929, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995040952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995040955, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995043339, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995043512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995043515, "dur":6510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995050057, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995050180, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995050184, "dur":8513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995058718, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995058769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995058775, "dur":5773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995064794, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995064859, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995064862, "dur":4061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":19, "ts":1687592995068966, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":19, "ts":1687592995069006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995069011, "dur":6117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":19, "ts":1687592995075155, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets14.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1687592995075179, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995075184, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets14.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1687592995078702, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1687592995078722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995078725, "dur":5842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1687592995084610, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level15" }}
+,{ "pid":12345, "tid":19, "ts":1687592995084648, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1687592995084652, "dur":7225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level15" }}
+,{ "pid":12345, "tid":19, "ts":1687592995091899, "dur":1853, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995032788, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995032788, "dur":2528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995035319, "dur":558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1687592995035877, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995035912, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995035938, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995036391, "dur":3256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995039690, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995039722, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995039736, "dur":1899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995041656, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995041687, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995041690, "dur":2475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995044189, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995044209, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995044212, "dur":5506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995049892, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995049917, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995049920, "dur":7596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995057560, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995057800, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995057806, "dur":9694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1687592995067520, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":20, "ts":1687592995067541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995067561, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":20, "ts":1687592995069514, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":20, "ts":1687592995069542, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995069546, "dur":7213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":20, "ts":1687592995076792, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":20, "ts":1687592995076821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995076825, "dur":5228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":20, "ts":1687592995082072, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level5" }}
+,{ "pid":12345, "tid":20, "ts":1687592995082094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995082097, "dur":6596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/level5" }}
+,{ "pid":12345, "tid":20, "ts":1687592995088725, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/33rla/Documents/Binary/BinaryRPG_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":20, "ts":1687592995088753, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1687592995088757, "dur":3748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/33rla/Documents/Binary/BinaryRPG_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":20, "ts":1687592995092536, "dur":902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687592995096676, "dur":1961, "ph":"X", "name": "ProfilerWriteOutput" }
+,
