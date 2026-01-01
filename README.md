@@ -21,6 +21,6 @@
 
 ---
 
-## 🏗️ 개발 정보
+## 🛠️ 개발 정보
 - Engine: **Unity**
 - Platform: **PC**
